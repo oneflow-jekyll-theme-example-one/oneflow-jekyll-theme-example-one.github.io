@@ -20,7 +20,8 @@
 }
 
 .box--success {
-    border-color: $success-color
+    border-color: $success-color;
+    background-color: rgba($success-color, 0.2);
 }
 
 .box--warning {
